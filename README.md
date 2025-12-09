@@ -3,6 +3,7 @@ LPG Gas Leakage Detection System using MQ-2 & Arduino Uno
 This project is a simple and effective LPG Gas Leakage Detection System built using the MQ-2 gas sensor, Arduino Uno, LED, and buzzer.
 When LPG concentration crosses a safe threshold, the system triggers visual and audible alerts.
 
+
 🔥 Features
 
 Continuous LPG gas monitoring
@@ -16,6 +17,7 @@ Audible buzzer alarm
 Adjustable gas detection threshold
 
 Beginner-friendly circuit & code
+
 
 🧩 Components Used
 
@@ -31,6 +33,7 @@ Jumper wires
 
 Breadboard
 
+
 🔌 Circuit Diagram
 
 Arduino 5V ----- MQ2 VCC  
@@ -39,6 +42,7 @@ Arduino A0 ----- MQ2 A0
 
 Arduino D13 ---- LED (via 220Ω resistor) ---- GND  
 Arduino D12 ---- Buzzer ---- GND  
+
 
 🧠 How It Works
 
